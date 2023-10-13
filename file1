@@ -3,3 +3,4 @@ Git is DVCS
 Svn is CVCS
 git clone --It copy a remote repo to local repo
 git push --It is used to push a data local to remote
+git log-- It shows who change & when change
